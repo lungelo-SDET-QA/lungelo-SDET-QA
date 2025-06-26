@@ -2,8 +2,7 @@
 
 🎯 **QA Engineer | SDET | Automation Testing| Manual Testing | Frontend Developer**
 
-I'm a dedicated Software Quality Engineer with 2+ years of experience in manual and automated testing. I specialize in ensuring high-quality software through robust automation frameworks, exploratory testing, and collaborative development practices.
-
+I'm a dedicated Software Quality Engineer with 2+ years of experience in manual and automated testing. I specialize in ensuring high-quality software through robust automation frameworks, exploratory testing, and collaborative development practices. I’ve also ventured into **frontend development** and started contributing directly to UI components and DevOps practices constantly growing and leveling up my skills.
 
 
 ## 🛠️ Technical Skills
