@@ -1,5 +1,7 @@
 
-![Automation Stack](./Selenium-logo.png)
+<p align="center">
+  <img src="./Selenium-logo.png" alt="Automation Stack Banner" width="100%">
+</p>
 
 # 👋 Hi there, I'm Lungelo Ngiba
 
