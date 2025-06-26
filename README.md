@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./Selenium-logo.png" alt="Selenium" width="75px" height="75px" style="margin: 0 10px;">
-  <img src="./Cypress-logo.png" alt="Cypress" width="75px" height="75px" style="margin: 0 10px;">
+  <img src="./Selenium-logo.png" alt="Selenium" width="75px" height="75px" style="margin: 0 15px;">
+  <img src="./Cypress-logo.png" alt="Cypress" width="75px" height="75px" style="margin: 0 15px;">
   <img src="./Git-icon.png" alt="Git" width="75px" height="75px" style="margin: 0 10px;">
-  <img src="./Postman-logo.png" alt="Postman" width="75px" height="75px" style="margin: 0 10px;">
-  <img src="./Jenkins-logo.jpg" alt="Jenkins" width="75px" height="75px" style="margin: 0 10px;">
+  <img src="./Postman-logo.png" alt="Postman" width="75px" height="75px" style="margin: 0 15px;">
+  <img src="./Jenkins-logo.jpg" alt="Jenkins" width="75px" height="75px" style="margin: 0 15px;">
 </p>
 
 # 👋 Hi there, I'm Lungelo Ngiba
