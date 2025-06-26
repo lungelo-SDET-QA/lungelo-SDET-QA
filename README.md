@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="./Selenium-logo.png" alt="Automation Stack Banner" width="100%">
+  <img src="./Selenium-logo.png" alt="Automation Stack Banner" width="100px" height="100px">
 </p>
+
 
 # 👋 Hi there, I'm Lungelo Ngiba
 
