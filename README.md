@@ -1,3 +1,6 @@
+
+![Automation Stack](./Selenium Logo.png)
+
 # 👋 Hi there, I'm Lungelo Ngiba
 
 🎯 **QA Engineer | SDET | Automation Testing| Manual Testing | Frontend Developer**
