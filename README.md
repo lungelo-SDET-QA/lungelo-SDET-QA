@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Lungelo Ngiba
 
-🎯 **QA Engineer / SDET | Automation Enthusiast | Developer-in-Testing**
+🎯 **QA Engineer | SDET | Automation Testing| Manual Testing | Frontend Developer**
 
 I'm a dedicated Software Quality Engineer with 2+ years of experience in manual and automated testing. I specialize in ensuring high-quality software through robust automation frameworks, exploratory testing, and collaborative development practices.
 
