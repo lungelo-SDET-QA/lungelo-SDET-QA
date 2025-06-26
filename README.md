@@ -1,5 +1,5 @@
 
-![Automation Stack](./Selenium Logo.png)
+![Automation Stack](./Selenium-logo.png)
 
 # 👋 Hi there, I'm Lungelo Ngiba
 
