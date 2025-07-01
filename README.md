@@ -15,13 +15,12 @@ I'm a dedicated Software Quality Engineer with 2+ years of experience in manual 
 
 ## 🛠️ Technical Skills
 
-**🧪 Testing & Automation Tools:**   Selenium • Cypress • Cucumber • Playwright • Postman • REST Assured
-
-**💻 Languages & Frameworks:**   JavaScript • TypeScript • Java • HTML • CSS • C# .NET Core • Angular
-
-**🔄 DevOps & CI/CD:**   Git • GitHub Actions • Jenkins • Azure DevOps • Docker
-
-**📋 Testing Types:**   UI Testing (Web/Mobile) • API Testing  • Regression & Smoke Testing • Unit Testing (basic) • Cross-browser Testing •  Exploratory Testing
+| **Category**                  | **Skills**                                                                                                                                      |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **🧪 Testing Tools**          | Selenium • Cypress • Cucumber • Playwright • Postman • REST Assured                                                                             |
+| **💻 Languages & Frameworks** | JavaScript • TypeScript • Java • HTML • CSS • C# .NET Core • Angular                                                                            |
+| **🔄 DevOps & CI/CD**         | Git • GitHub Actions • Jenkins • Azure DevOps • Docker                                                                                          |
+| **📋 Testing Types**          | UI Testing (Web/Mobile) • API Testing • Regression Testing • Smoke Testing • Unit Testing (basic) • Cross-browser Testing • Exploratory Testing |
 
 
 ## 🤝 Let's Connect
